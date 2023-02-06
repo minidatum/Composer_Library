@@ -7,7 +7,7 @@
             "name": "minidatum",
             "email": "echo.alrendyssimarmata@gmail.com"
         }
-    ],
+    ], 
     "require": {
         "php" :">=8.0"
     }, "autoload": {
